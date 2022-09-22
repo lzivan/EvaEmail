@@ -31,6 +31,7 @@
         android:background="@color/lightgray"
         android:inputType="none"
         android:fontFamily="cursive"
+        android:textColor="#FF00"
         android:text=""
         android:textSize="20sp"
         android:gravity="center"
